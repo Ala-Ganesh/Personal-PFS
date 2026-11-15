@@ -1,11 +1,11 @@
 A personal, hands-on learning repository documenting my journey toward becoming a **Python Full Stack Developer**.
 
 This repository contains:
-* daily Python practice
-* programming exercises
-* mini-projects
-* notes
-* and progress as I strengthen my software development skills.
+* Daily Python practice
+* Programming exercises
+* Mini-projects
+* Notes
+* and Progress as I strengthen my software development skills.
 
 ## Learning Goals
 
@@ -27,7 +27,7 @@ Personal-PFS/
 ├── Day-1.py
 ├── Day-2.py
 ├── Day-3.py
-├── Day-.....py
+├── Day-#.py
 ├── README.md
 └── .gitignore
 ```
