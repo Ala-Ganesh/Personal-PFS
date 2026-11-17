@@ -179,7 +179,7 @@ print("--------------------------------------------------------------")
 print("Mini-Project")
 name= input("Enter Student Name: ")
 math = int(input("Enter Maths marks: "))
-socsci = int(input("Enter Social Studies marks: "))))
+socsci = int(input("Enter Social Studies marks: "))
 gk = int(input("Enter General Knowledge Marks: "))
 total_marks = math + socsci + gk
 percentage = (total_marks/300) * 100
